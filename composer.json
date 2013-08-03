@@ -1,0 +1,15 @@
+{
+    "name": "wukka/store",
+    "type": "library",
+    "description": "key value storage interface",
+    "license": "MIT", 
+    "authors": [
+        {"name": "John Loehrer", "email": "72squared@gmail.com"}
+    ],
+    "require-dev": {
+        "wukka/test": "dev-master"
+    },
+    "autoload": {
+        "psr-0": { "Wukka\Store": "lib/" }
+    }
+}
