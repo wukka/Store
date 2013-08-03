@@ -10,6 +10,6 @@
         "wukka/test": "dev-master"
     },
     "autoload": {
-        "psr-0": { "Wukka\Store": "lib/" }
+        "psr-0": { "Wukka\\Store": "lib/" }
     }
 }
